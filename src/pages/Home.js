@@ -85,7 +85,7 @@ class Home extends React.Component {
                             <div className="box">
                                 <h4>Css</h4>
                                 <div className="percent">
-                                    <div style={{width: '95%;'}}></div>
+                                    <div style={{width: '95%'}}></div>
                                 </div>
                             </div>
                             <div className="box">
